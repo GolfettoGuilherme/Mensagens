@@ -15,9 +15,11 @@
 </p>
 
 <h1 align="center">
-  <img alt="Home" src="https://github.com/GolfettoGuilherme/Mensagens/blob/main/Mensagens/screenshots/home.png" width="400" />
-  <img alt="Search" src="https://github.com/GolfettoGuilherme/Mensagens/blob/main/Mensagens/screenshots/search.png" width="400" />
-  <img alt="Hero Description" src="https://github.com/GolfettoGuilherme/Mensagens/blob/main/Mensagens/screenshots/hero_description.png" width="400" />
+  <img alt="Home" src="https://raw.githubusercontent.com/GolfettoGuilherme/Mensagens/main/screenshots/01.png" width="400" />
+  <img alt="Search" src="https://raw.githubusercontent.com/GolfettoGuilherme/Mensagens/main/screenshots/02.png" width="400" />
+  <img alt="Hero Description" src="https://raw.githubusercontent.com/GolfettoGuilherme/Mensagens/main/screenshots/03.png" width="400" />
+  <img alt="Hero Description" src="https://raw.githubusercontent.com/GolfettoGuilherme/Mensagens/main/screenshots/04.png" width="400" />
+  <img alt="Hero Description" src="https://raw.githubusercontent.com/GolfettoGuilherme/Mensagens/main/screenshots/05.png" width="400" />
 </h1>
 
 ## :page_with_curl: Sobre
